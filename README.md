@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lesedi Selele
 📊Aspiring Data Analyst  
-👩‍🎓Advanced Diploma in ICT 
+👩‍🎓Advanced Diploma in ICT (Information & Communication Technology)
 
 I’m passionate about turning data into meaningful insights and learning how to visualize and analyze data effectively.  
 Currently building my skills in  Power BI,SQL, Python, and data storytelling.
