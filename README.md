@@ -1,64 +1,41 @@
 # 👋 Hi, I’m Lesedi Selele
-**Aspiring Data Analyst | Advanced Diploma in ICT | SQL & Power BI Enthusiast**
+📊Aspiring Data Analyst  
+👩‍🎓Advanced Diploma in ICT 
 
-I’m passionate about transforming raw data into meaningful insights and helping businesses make informed decisions.  
-Currently exploring data visualization, analytics, and predictive modeling.
-
----
-
-## 🔭 I’m Currently Working On
-- Building **Power BI Dashboards** to track operational and business metrics  
-- Developing **SQL projects** for data analysis and reporting  
-- Learning **Python for Data Analysis** (Pandas, NumPy, Matplotlib, Seaborn)  
+I’m passionate about turning data into meaningful insights and learning how to visualize and analyze data effectively.  
+Currently building my skills in  Power BI,SQL, Python, and data storytelling.
 
 ---
 
-## 💡 Skills & Tools
-
-**Data Analysis & Visualization:**  
-SQL | Power BI | Excel | Tableau (basic)  
-
-**Programming:**  
-Python (data analysis) | R (beginner)  
-
-**Database Management:**  
-MySQL | PostgreSQL | NoSQL basics  
-
-**Other Tools:**  
-Git & GitHub | Microsoft Office | Data Cleaning & Reporting  
-
----
-
-## 📂 Projects
-
-### 1. **Facilities HR Dashboard – June 2025**  
-- Built a **Power BI dashboard** to track HR operations across Facilities, Productions, Distribution, and Contributions  
-- Designed interactive visuals: cards, bar charts, pie charts, tables, and slicers  
-
-### 2. **SQL Stock Analysis Simulation**  
-- Developed a **database system to simulate stock trends and dealer activities**  
-- Performed queries for ROI, price trends, and risk assessment  
-
-### 3. **Task Management System (PHP + MySQL)**  
-- Created a **web-based task & attendance system**  
-- Features: admin & employee management, task tracking, report generation  
+## 🛠️ Skills
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Power BI features & DAX formulas**  
-- **Python for predictive modeling** and automation  
-- **Data storytelling** to present insights effectively  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge)
 
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/lesedisele)  
-- [Portfolio / Blog](YOUR_PORTFOLIO_LINK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesedisele)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.lesediselele26@gmail.com)  
+
 
 ---
 
-## 📊 GitHub Stats
-![Lesedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+## 💡 Future Projects
+- Beginner Power BI dashboards with sample datasets  
+- SQL queries and small projects for data analysis  
+- Python scripts for analyzing CSV datasets  
+vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
