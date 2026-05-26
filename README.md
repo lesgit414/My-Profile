@@ -37,6 +37,6 @@ Currently building my skills in  Power BI,SQL, Python, and data storytelling.
 
 ## 💡 Future Projects
 - Beginner Power BI dashboards with sample datasets  
-- SQL queries and small projects for data analysis  
-- Python scripts for analyzing CSV datasets  
+
+   
 
